@@ -13,9 +13,9 @@ var config = {
 			{path:'includes\\images\\wallpaper2.jpg'}
 		],
 		// Wall width
-		width:					4920,
+		width:					1920,
 		// Wall heigh
-		height:					4080
+		height:					1080
 	},
 	// shadow image
 	shadowImagePath: 'includes\\images\\shadow.png',
